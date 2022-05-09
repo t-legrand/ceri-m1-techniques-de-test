@@ -37,7 +37,7 @@ Pour chaque rendu, le projet dans son intégralité doit être déposé sur la p
 [^1]: Si vous n’êtes vraiment pas à l’aise avec cet outil nous vous conseillons quand même vivement de vous y mettre.
 
 ## Utilisation du badge TP4
-![Nom Prénom](https://badgen.net/badge/groupe/LEGRAND%20Thomas/purple)
+![Nom Prénom](https://badgen.net/badge/NOM%20Prenom/LEGRAND%20Thomas/purple)
 ![Groupe](https://badgen.net/badge/groupe/ILSEN-alternants/yellow)
 
 ![CircleCI](https://img.shields.io/circleci/build/github/t-legrand/ceri-m1-techniques-de-test/master)
